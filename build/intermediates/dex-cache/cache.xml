@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sandromoreira/Documents/AulaDB/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dbf1256f4e34a15d97072b134fa4e9aeb26c167c">
+        <dex dex="/Users/sandromoreira/Documents/AulaDB/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_39bd795f0bfbb67e6706187adce47bed01e51737/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sandromoreira/Documents/AulaDB/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/sandromoreira/Documents/AulaDB/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b03203f64d6f0f996a37afdcefccdc2ed39c80ec/classes.dex" />
+    </item>
+
+</items>
